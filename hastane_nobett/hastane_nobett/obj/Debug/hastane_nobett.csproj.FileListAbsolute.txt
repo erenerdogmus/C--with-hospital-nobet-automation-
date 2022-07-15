@@ -1,0 +1,10 @@
+C:\Users\EREN ERDOĞMUŞ\source\repos\hastane_nobett\hastane_nobett\bin\Debug\hastane_nobett.exe.config
+C:\Users\EREN ERDOĞMUŞ\source\repos\hastane_nobett\hastane_nobett\bin\Debug\hastane_nobett.exe
+C:\Users\EREN ERDOĞMUŞ\source\repos\hastane_nobett\hastane_nobett\bin\Debug\hastane_nobett.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\hastane_nobett\hastane_nobett\obj\Debug\hastane_nobett.csproj.AssemblyReference.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\hastane_nobett\hastane_nobett\obj\Debug\hastane_nobett.Form1.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\hastane_nobett\hastane_nobett\obj\Debug\hastane_nobett.Properties.Resources.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\hastane_nobett\hastane_nobett\obj\Debug\hastane_nobett.csproj.GenerateResource.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\hastane_nobett\hastane_nobett\obj\Debug\hastane_nobett.csproj.CoreCompileInputs.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\hastane_nobett\hastane_nobett\obj\Debug\hastane_nobett.exe
+C:\Users\EREN ERDOĞMUŞ\source\repos\hastane_nobett\hastane_nobett\obj\Debug\hastane_nobett.pdb
